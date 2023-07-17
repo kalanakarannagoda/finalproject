@@ -1,0 +1,10 @@
+May 09, 2020 11:37:59 PM gui.home logger
+INFO: Hello
+May 09, 2020 11:38:01 PM gui.product logger
+INFO: Hello
+May 27, 2020 9:37:17 AM gui.home logger
+INFO: Hello
+Jun 03, 2020 8:05:55 AM gui.invoice logger
+INFO: Hello
+Jun 03, 2020 8:06:05 AM gui.customer logger
+INFO: Hello
